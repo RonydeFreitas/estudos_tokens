@@ -1,0 +1,13 @@
+{
+  "source": ["tokens/color/ambiente.json"],
+  "platforms": {
+    "css": {
+      "transformGroup": "css",
+      "buildPath": "build/css/themes/ambiente/",
+      "files": [{
+        "destination": "_variables.css",
+        "format": "css/variables"
+      }]
+    }
+  }
+}

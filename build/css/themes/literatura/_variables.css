@@ -1,0 +1,25 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 14 Nov 2022 01:19:55 GMT
+ */
+
+:root {
+  --neutras-100: #fcfcfc;
+  --neutras-300: #e3e3e3;
+  --neutras-400: #c9c9c9;
+  --neutras-600: #969696;
+  --neutras-700: #4a4a4a;
+  --neutras-gradiente: linear-gradient(135deg, #fcfcfc 0%, #e3e3e3 100%);
+  --primario-300: #f6fdfa;
+  --primario-400: #e3f8ee;
+  --primario-500: #cef2e1;
+  --primario-600: #299965;
+  --primario-700: #134930;
+  --primario-gradiente: linear-gradient(135deg, #cef2e1 0%, #299965 100%);
+  --realce-300: #fcfbe8;
+  --realce-400: #f6f2bb;
+  --realce-500: #f3eea5;
+  --realce-600: #b5aa17;
+  --realce-700: #5a550c;
+  --realce-gradiente: linear-gradient(135deg, #f2ec9b 0%, #b5aa17 100%);
+}

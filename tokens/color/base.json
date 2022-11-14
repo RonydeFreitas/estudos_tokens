@@ -1,0 +1,162 @@
+{
+    "Ambiente": {
+      "Neutras": {
+        "100": {
+          "value": "#fcfcfc",
+          "type": "color"
+        },
+        "300": {
+          "value": "#e3e3e3",
+          "type": "color"
+        },
+        "400": {
+          "value": "#c9c9c9",
+          "type": "color"
+        },
+        "600": {
+          "value": "#969696",
+          "type": "color"
+        },
+        "700": {
+          "value": "#4a4a4a",
+          "type": "color"
+        },
+        "Gradiente": {
+          "value": "linear-gradient(135deg, #fcfcfc 0%, #e3e3e3 100%)",
+          "type": "color"
+        }
+      },
+      "Primario": {
+        "300": {
+          "value": "#fbfcf7",
+          "type": "color"
+        },
+        "400": {
+          "value": "#e9f1cf",
+          "type": "color"
+        },
+        "500": {
+          "value": "#b4ce59",
+          "type": "color"
+        },
+        "600": {
+          "value": "#7f952d",
+          "type": "color"
+        },
+        "700": {
+          "value": "#3c4715",
+          "type": "color"
+        },
+        "Gradiente": {
+          "value": "linear-gradient(135deg, #b4ce59 0%, #7f952d 100%)",
+          "type": "color"
+        }
+      },
+      "Realce": {
+        "300": {
+          "value": "#f6e7d5",
+          "type": "color"
+        },
+        "400": {
+          "value": "#e3b782",
+          "type": "color"
+        },
+        "500": {
+          "value": "#cf872f",
+          "type": "color"
+        },
+        "600": {
+          "value": "#a66c26",
+          "type": "color"
+        },
+        "700": {
+          "value": "#533613",
+          "type": "color"
+        },
+        "Gradiente": {
+          "value": "linear-gradient(135deg, #cf872f 0%, #a66c26 100%)",
+          "type": "color"
+        }
+      }
+    },
+    "Literatura": {
+      "Neutras": {
+        "100": {
+          "value": "#fcfcfc",
+          "type": "color"
+        },
+        "300": {
+          "value": "#e3e3e3",
+          "type": "color"
+        },
+        "400": {
+          "value": "#c9c9c9",
+          "type": "color"
+        },
+        "600": {
+          "value": "#969696",
+          "type": "color"
+        },
+        "700": {
+          "value": "#4a4a4a",
+          "type": "color"
+        },
+        "Gradiente": {
+          "value": "linear-gradient(135deg, #fcfcfc 0%, #e3e3e3 100%)",
+          "type": "color"
+        }
+      },
+      "Primario": {
+        "300": {
+          "value": "#f6fdfa",
+          "type": "color"
+        },
+        "400": {
+          "value": "#e3f8ee",
+          "type": "color"
+        },
+        "500": {
+          "value": "#cef2e1",
+          "type": "color"
+        },
+        "600": {
+          "value": "#299965",
+          "type": "color"
+        },
+        "700": {
+          "value": "#134930",
+          "type": "color"
+        },
+        "Gradiente": {
+          "value": "linear-gradient(135deg, #cef2e1 0%, #299965 100%)",
+          "type": "color"
+        }
+      },
+      "Realce": {
+        "300": {
+          "value": "#fcfbe8",
+          "type": "color"
+        },
+        "400": {
+          "value": "#f6f2bb",
+          "type": "color"
+        },
+        "500": {
+          "value": "#f3eea5",
+          "type": "color"
+        },
+        "600": {
+          "value": "#b5aa17",
+          "type": "color"
+        },
+        "700": {
+          "value": "#5a550c",
+          "type": "color"
+        },
+        "Gradiente": {
+          "value": "linear-gradient(135deg, #f2ec9b 0%, #b5aa17 100%)",
+          "type": "color"
+        }
+      }
+    }
+  }

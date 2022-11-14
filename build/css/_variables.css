@@ -1,0 +1,61 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 14 Nov 2022 00:02:22 GMT
+ */
+
+:root {
+  --ambiente-neutras-100: #fcfcfc;
+  --ambiente-neutras-300: #e3e3e3;
+  --ambiente-neutras-400: #c9c9c9;
+  --ambiente-neutras-600: #969696;
+  --ambiente-neutras-700: #4a4a4a;
+  --ambiente-neutras-gradiente: linear-gradient(135deg, #fcfcfc 0%, #e3e3e3 100%);
+  --ambiente-primario-300: #fbfcf7;
+  --ambiente-primario-400: #e9f1cf;
+  --ambiente-primario-500: #b4ce59;
+  --ambiente-primario-600: #7f952d;
+  --ambiente-primario-700: #3c4715;
+  --ambiente-primario-gradiente: linear-gradient(135deg, #b4ce59 0%, #7f952d 100%);
+  --ambiente-realce-300: #f6e7d5;
+  --ambiente-realce-400: #e3b782;
+  --ambiente-realce-500: #cf872f;
+  --ambiente-realce-600: #a66c26;
+  --ambiente-realce-700: #533613;
+  --ambiente-realce-gradiente: linear-gradient(135deg, #cf872f 0%, #a66c26 100%);
+  --literatura-neutras-100: #fcfcfc;
+  --literatura-neutras-300: #e3e3e3;
+  --literatura-neutras-400: #c9c9c9;
+  --literatura-neutras-600: #969696;
+  --literatura-neutras-700: #4a4a4a;
+  --literatura-neutras-gradiente: linear-gradient(135deg, #fcfcfc 0%, #e3e3e3 100%);
+  --literatura-primario-300: #f6fdfa;
+  --literatura-primario-400: #e3f8ee;
+  --literatura-primario-500: #cef2e1;
+  --literatura-primario-600: #299965;
+  --literatura-primario-700: #134930;
+  --literatura-primario-gradiente: linear-gradient(135deg, #cef2e1 0%, #299965 100%);
+  --literatura-realce-300: #fcfbe8;
+  --literatura-realce-400: #f6f2bb;
+  --literatura-realce-500: #f3eea5;
+  --literatura-realce-600: #b5aa17;
+  --literatura-realce-700: #5a550c;
+  --literatura-realce-gradiente: linear-gradient(135deg, #f2ec9b 0%, #b5aa17 100%);
+  --comemoracao-neutras-100: #fcfcfc;
+  --comemoracao-neutras-300: #e3e3e3;
+  --comemoracao-neutras-400: #c9c9c9;
+  --comemoracao-neutras-600: #969696;
+  --comemoracao-neutras-700: #4a4a4a;
+  --comemoracao-neutras-gradiente: linear-gradient(135deg, #fcfcfc 0%, #e3e3e3 100%);
+  --comemoracao-primario-300: #fef5f5;
+  --comemoracao-primario-400: #fbc5c9;
+  --comemoracao-primario-500: #f23545;
+  --comemoracao-primario-600: #b60c1a;
+  --comemoracao-primario-700: #56060c;
+  --comemoracao-primario-gradiente: linear-gradient(135deg, #f23545 0%, #b60c1a 100%);
+  --comemoracao-realce-300: #dee3ed;
+  --comemoracao-realce-400: #9babca;
+  --comemoracao-realce-500: #5872a6;
+  --comemoracao-realce-600: #475c85;
+  --comemoracao-realce-700: #232e43;
+  --comemoracao-realce-gradiente: linear-gradient(135deg, #5872a6 0%, #232e43 100%);
+}

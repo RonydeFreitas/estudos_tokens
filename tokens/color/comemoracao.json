@@ -1,0 +1,80 @@
+{
+  "Neutras": {
+    "100": {
+      "value": "#fcfcfc",
+      "type": "color"
+    },
+    "300": {
+      "value": "#e3e3e3",
+      "type": "color"
+    },
+    "400": {
+      "value": "#c9c9c9",
+      "type": "color"
+    },
+    "600": {
+      "value": "#969696",
+      "type": "color"
+    },
+    "700": {
+      "value": "#4a4a4a",
+      "type": "color"
+    },
+    "Gradiente": {
+      "value": "linear-gradient(135deg, #fcfcfc 0%, #e3e3e3 100%)",
+      "type": "color"
+    }
+  },
+  "Primario": {
+    "300": {
+      "value": "#fef5f5",
+      "type": "color"
+    },
+    "400": {
+      "value": "#fbc5c9",
+      "type": "color"
+    },
+    "500": {
+      "value": "#f23545",
+      "type": "color"
+    },
+    "600": {
+      "value": "#b60c1a",
+      "type": "color"
+    },
+    "700": {
+      "value": "#56060c",
+      "type": "color"
+    },
+    "Gradiente": {
+      "value": "linear-gradient(135deg, #f23545 0%, #b60c1a 100%)",
+      "type": "color"
+    }
+  },
+  "Realce": {
+    "300": {
+      "value": "#dee3ed",
+      "type": "color"
+    },
+    "400": {
+      "value": "#9babca",
+      "type": "color"
+    },
+    "500": {
+      "value": "#5872a6",
+      "type": "color"
+    },
+    "600": {
+      "value": "#475c85",
+      "type": "color"
+    },
+    "700": {
+      "value": "#232e43",
+      "type": "color"
+    },
+    "Gradiente": {
+      "value": "linear-gradient(135deg, #5872a6 0%, #232e43 100%)",
+      "type": "color"
+    }
+  }
+}
